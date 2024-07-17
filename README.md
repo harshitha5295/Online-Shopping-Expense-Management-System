@@ -10,6 +10,6 @@ Expense Categories: Predefined and user-defined categories for better organizati
 Reporting and Analysis: Generate reports to visualize spending patterns over time.
 Database Management: Store and retrieve data from a MySQL database for persistence.
 # Technologies Used
-Front-end: Java Swing
-Back-end: MySQL
+Front-end: Java Swing  
+Back-end: MySQL    
 Programming Language: Java
